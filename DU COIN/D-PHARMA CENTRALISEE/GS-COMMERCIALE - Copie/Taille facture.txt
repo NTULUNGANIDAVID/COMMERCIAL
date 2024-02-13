@@ -1,0 +1,5 @@
+Horizontal 9
+Verticale 15
+En centimettre
+aucune imprimate (optimiser)
+(Cocher)dissocier la taille de la page mise en formes

@@ -1,0 +1,286 @@
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ADMINISTRER.resources
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelApprovisionnement.resources
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelListeProduit.resources
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Creationcompte.resources
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Facture_clients.resources
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rmoissouhaite.resources
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rvjour.resources
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Chargement.resources
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PAGE_ACCUEIL.resources
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csproj.GenerateResource.Cache
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.licenses
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\David\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csprojResolveAssemblyReference.cache
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csprojResolveAssemblyReference.cache
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ADMINISTRER.resources
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelApprovisionnement.resources
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelListeProduit.resources
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Creationcompte.resources
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Facture_clients.resources
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rmoissouhaite.resources
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rvjour.resources
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Chargement.resources
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PAGE_ACCUEIL.resources
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csproj.GenerateResource.Cache
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.licenses
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\David\Music\mon projet\Copie de GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csprojResolveAssemblyReference.cache
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ADMINISTRER.resources
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelApprovisionnement.resources
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelListeProduit.resources
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Creationcompte.resources
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Facture_clients.resources
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rmoissouhaite.resources
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rvjour.resources
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Chargement.resources
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PAGE_ACCUEIL.resources
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csproj.GenerateResource.Cache
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.licenses
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\David\Music\mon projet\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelInferieure.resources
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelApprovisionnement.resources
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelInferieure.resources
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelListeProduit.resources
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Creationcompte.resources
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Facture_clients.resources
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rmoissouhaite.resources
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Chargement.resources
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PAGE_ACCUEIL.resources
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csproj.GenerateResource.Cache
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.licenses
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Appeljournalierrp.resources
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelProforma.resources
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ADMINISTRER.resources
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelApprovisionnement.resources
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelInferieure.resources
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Appeljournalierrp.resources
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelListeProduit.resources
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelProforma.resources
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Callcommande.resources
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Creationcompte.resources
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Facture_clients.resources
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rmoissouhaite.resources
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rvjour.resources
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Chargement.resources
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PAGE_ACCUEIL.resources
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csproj.GenerateResource.Cache
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.licenses
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\DavidNT\Documents\PROGICIEL NOTE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Callcommande.resources
+C:\Users\DavidNT\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DavidNT\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DavidNT\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CallSyntheseVente.resources
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelApprovisionnement.resources
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelInferieure.resources
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Appeljournalierrp.resources
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelListeProduit.resources
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelProforma.resources
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Callcommande.resources
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CallSyntheseVente.resources
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Creationcompte.resources
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Facture_clients.resources
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rmoissouhaite.resources
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Chargement.resources
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PAGE_ACCUEIL.resources
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csproj.GenerateResource.Cache
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.licenses
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\DavidNT\Documents\DERICK PROJET\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csprojResolveAssemblyReference.cache
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelApprovisionnement.resources
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelInferieure.resources
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Appeljournalierrp.resources
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelListeProduit.resources
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelProforma.resources
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Callcommande.resources
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CallSyntheseVente.resources
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Creationcompte.resources
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Facture_clients.resources
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rmoissouhaite.resources
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Chargement.resources
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PAGE_ACCUEIL.resources
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csproj.GenerateResource.Cache
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.licenses
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\CMD\Music\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csprojResolveAssemblyReference.cache
+C:\Users\DavidNT\Documents\PROJET AVEC FACTURE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csprojResolveAssemblyReference.cache
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csprojResolveAssemblyReference.cache
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelApprovisionnement.resources
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelInferieure.resources
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Appeljournalierrp.resources
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelListeProduit.resources
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelProforma.resources
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Callcommande.resources
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CallSyntheseVente.resources
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Creationcompte.resources
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Facture_clients.resources
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rmoissouhaite.resources
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Chargement.resources
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PAGE_ACCUEIL.resources
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csproj.GenerateResource.Cache
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.licenses
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\CMD\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csprojResolveAssemblyReference.cache
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelApprovisionnement.resources
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Appeldetailrapportjournalier.resources
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelInferieure.resources
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Appeljournalierrp.resources
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelListeProduit.resources
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelProforma.resources
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Callcommande.resources
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CallSyntheseVente.resources
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Creationcompte.resources
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Facture_clients.resources
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rmoissouhaite.resources
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Chargement.resources
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PAGE_ACCUEIL.resources
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csproj.GenerateResource.Cache
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.licenses
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\DavidNT\Documents\DERICK A JOURS\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\DGV2Printer-net45.dll
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\itextsharp.dll
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelApprovisionnement.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Appeldetailrapportjournalier.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelInferieure.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Appeljournalierrp.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelListeProduit.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelProforma.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Callcommande.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CallSyntheseVente.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Creationcompte.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Facture_clients.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rmoissouhaite.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Chargement.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PAGE_ACCUEIL.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csproj.GenerateResource.Cache
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.licenses
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\david\Documents\Visual Studio 2012\Projects\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelApprovisionnement.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Appeldetailrapportjournalier.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelInferieure.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Appeljournalierrp.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelListeProduit.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AppelProforma.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Callcommande.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CallSyntheseVente.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Creationcompte.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Facture_clients.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Rmoissouhaite.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Chargement.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PAGE_ACCUEIL.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\ALIMENTATION LIQUEUR STORE.csproj.GenerateResource.Cache
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.licenses
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\david\Documents\Visual Studio 2012\Projects\D-PHARMA CENTRALISEE\GS-COMMERCIALE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application

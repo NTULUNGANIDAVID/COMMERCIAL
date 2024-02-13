@@ -1,0 +1,64 @@
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Chargement.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PAGE_ACCUEIL.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.licenses
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Listeprod.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Creationcompte.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Creationcompte.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Chargement.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Listeprod.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PAGE_ACCUEIL.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.licenses
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Creationcompte.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Chargement.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Listeprod.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PAGE_ACCUEIL.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.licenses
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Creationcompte.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Chargement.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Listeprod.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PAGE_ACCUEIL.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.licenses
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\Davidntd\Documents\Visual Studio 2012\Projects\GS_ALIMENT TRUE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
